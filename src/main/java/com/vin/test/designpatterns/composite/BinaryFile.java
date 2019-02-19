@@ -21,12 +21,12 @@ public class BinaryFile extends File{
 
 	@Override
 	public File[] getFiles() {
-		throw new UnsupportedOperationException("Leaf node doesn't support add operation");
+		throw new UnsupportedOperationException("Leaf node doesn't support get operation");
 	}
 
 	@Override
 	public boolean removeFile(File file) {
-		throw new UnsupportedOperationException("Leaf node doesn't support add operation");
+		throw new UnsupportedOperationException("Leaf node doesn't support remove operation");
 	}
 
 }
