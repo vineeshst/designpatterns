@@ -1,4 +1,4 @@
-package com.vin.test.designpatterns.adapter.cls;
+package com.vin.test.designpatterns.adapter;
 
 public class EmployeeClassAdapter extends Employee implements Customer {
 

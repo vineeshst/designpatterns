@@ -1,4 +1,4 @@
-package com.vin.test.designpatterns.adapter.cls;
+package com.vin.test.designpatterns.adapter;
 
 public class BusinessCardDesigner {
 	public String designCard(Customer customer) {
